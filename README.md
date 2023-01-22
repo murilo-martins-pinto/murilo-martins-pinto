@@ -1,6 +1,6 @@
-### Olá, mundo! Eu sou o Murilo Martins
+# Olá, mundo! Me chamo Murilo Martins! 
+## Bem vindo ao meu perfil no GitHub 👋
 
-- 🔭 Atualmente estou trabalhando com front-end
-- 🌱 No momento estou aprendendo JavaScript
-- 😄 Pronomes: ele/dele
-
+- 📚 Atualmente estou estudando Ciência da Computação
+- 💻 No momento estou aprendendo front-end
+- ♂️ Pronomes: ele/dele
