@@ -12,3 +12,9 @@
 ### Estou aprendendo
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+## Meu LinkedIn
+
+<div>
+<a href="https://www.linkedin.com/in/murilo-martins-862682262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
