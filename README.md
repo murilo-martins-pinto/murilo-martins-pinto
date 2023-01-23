@@ -23,8 +23,8 @@
 
 <div>
 <a href="https://github.com/murilo-martins-pinto">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-martins-pinto&layout=compact&langs_count=7&theme=dracula" width="500" height="500"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilo-martins-pinto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="500" height="500"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-martins-pinto&layout=compact&langs_count=7&theme=dracula" width="480" height="480"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilo-martins-pinto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="480" height="480"/>
 </div>
 
 ![Snake animation](https://github.com/murilo-martins-pinto/murilo-martins-pinto/blob/output/github-contribution-grid-snake.svg)
