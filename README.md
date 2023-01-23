@@ -27,4 +27,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilo-martins-pinto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="421" height="421"/>
 </div>
 
-![Snake animation](https://github.com/murilo-martins-pinto/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/murilo-martins-pinto/murilo-martins-pinto/blob/output/github-contribution-grid-snake.svg)
