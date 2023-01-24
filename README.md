@@ -27,4 +27,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilo-martins-pinto&theme=highcontrast&show_icons=true" width="421" height="421"/>
 </div>
 
-
+![snake gif](https://github.com/murilo-martins-pinto/murilo-martins-pinto/blob/output/main-contribution-grid-snake.svg)
