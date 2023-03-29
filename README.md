@@ -3,7 +3,6 @@
 
 - 📚 Atualmente estou estudando Ciência da Computação, na UNIP
 - 💻 No momento estou aprendendo front-end
-- ♂️ Pronomes: ele/dele
 
 ### Ferramentas e Tecnologias
 
