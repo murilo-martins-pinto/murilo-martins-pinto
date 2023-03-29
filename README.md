@@ -22,6 +22,6 @@
 
 <div>
 <a href="https://github.com/murilo-martins-pinto">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-martins-pinto&layout=compact&langs_count=7&theme=highcontrast" width="375" height="800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-martins-pinto&layout=compact&langs_count=7&theme=highcontrast" width="375" height="375"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilo-martins-pinto&theme=highcontrast&show_icons=true" width="420" height="420"/>
 </div>
